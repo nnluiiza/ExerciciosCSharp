@@ -9,3 +9,4 @@ Console.WriteLine("9*6=" + (9 * 6));
 Console.WriteLine("9*7=" + (9 * 7));
 Console.WriteLine("9*8=" + (9 * 8));
 Console.WriteLine("9*9=" + (9 * 9));
+Console.WriteLine("9*10=" + (9 * 10));
