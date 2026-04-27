@@ -1,5 +1,8 @@
 <Solution>
-  <Folder Name="/Lista031/" />
+  <Folder Name="/Lista031/">
+    <Project Path="exercicio 31/exercicio 31.csproj" Id="09ba3af6-2f1e-4a9e-9acd-fd3de444ee9f" />
+    <Project Path="exercicio 32/exercicio 32.csproj" Id="3ce8943b-8e85-4742-a92d-3c30c822423c" />
+  </Folder>
   <Folder Name="/material/">
     <Project Path="NomeDoAluno/NomeDoAluno.csproj" Id="93de212f-f4dc-4af5-a16c-2b589543862d" />
     <Project Path="OlaMundo/OlaMundo.csproj" Id="db3dacf6-9f14-4bdf-917c-3c779b9bf581" />
